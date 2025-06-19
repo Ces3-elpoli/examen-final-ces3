@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ExamenFinalCes3Application {
 
     public static void main(String[] args) {
+
         SpringApplication.run(ExamenFinalCes3Application.class, args);
     }
 

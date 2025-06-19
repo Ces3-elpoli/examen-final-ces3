@@ -103,6 +103,14 @@ public class Teacher {
 
 
 
+    public Double calcularSalarioAnual()
+    {
+        return this.salary * 12;
+    }
+
+
+
+
     @Override
     public String toString() {
         return "Teacher{" +
